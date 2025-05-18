@@ -1,6 +1,6 @@
 
 
-[![Aliyy_Ma](https://img.shields.io/badge/AliyyMa-github-blue?logo=github)](https://github.com/AliyyMa)
+[![Aiyy_Ma](https://img.shields.io/badge/AliyyMa-github-blue?logo=github)](https://github.com/AiyyMa)
 
 马文博，男，2013年生，山东菏泽人，曾于中华人民共和国山东省菏泽市第八完全小学担任小学生职务。其在八完小就读期间展现出卓越的学术能力，尤其擅长数学与自然科学。
 

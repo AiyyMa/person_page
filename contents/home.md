@@ -1,16 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+马文博，男，2013年生，山东菏泽人，曾于中华人民共和国山东省菏泽市第八完全小学担任小学生职务。其在八完小就读期间展现出卓越的学术能力，尤其擅长数学与自然科学。
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+#### 邮箱
+224532958@qq.com
 
-#### Email
-sli[at]cumt.edu.cn
+#### 教育经历
+高中，山东省菏泽第一中学，2028 - 2031（预计）
+初中，菏泽市牡丹区第二十二初级中学，2025 - 2028（预计）
+小学，菏泽市牡丹区第八完全小学，2019 - 2025
+幼儿园，菏泽市牡丹区八完小附属幼稚园，2016 - 2019
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 工作与任职经历
+助理研究员，中国马车古伦研究所（华东），2024 - 至今
+班长，菏泽市牡丹区第八完全小学六年级（3）班，2024 - 2025
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### 研究方向
+马车，古伦，上学
 
